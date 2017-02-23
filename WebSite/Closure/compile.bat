@@ -1,0 +1,1 @@
+java -jar compiler.jar --js %* --compilation_level ADVANCED_OPTIMIZATIONS --warning_level QUIET > data-min.js

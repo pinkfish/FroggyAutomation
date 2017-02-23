@@ -1,0 +1,6 @@
+TestInsteon\bin\*
+TestInsteon\obj\*
+FroggyAutomation\bin\
+FroggyAutomation\obj\
+*.obj
+*.exe

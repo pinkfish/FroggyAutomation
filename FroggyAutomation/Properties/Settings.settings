@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FroggyAutomation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PluginDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ApplicationDirectory}\plugins</Value>
+    </Setting>
+    <Setting Name="SerializedData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ApplicationDirectory}\database.cso</Value>
+    </Setting>
+    <Setting Name="WebData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ApplicationDirectory}\html</Value>
+    </Setting>
+    <Setting Name="WebPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8010</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

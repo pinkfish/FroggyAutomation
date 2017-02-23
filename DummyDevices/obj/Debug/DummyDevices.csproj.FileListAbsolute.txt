@@ -1,0 +1,18 @@
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\DummyDevices.dll
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\DummyDevices.pdb
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\Froggy Automation\DummyDevices\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\Froggy Automation\DummyDevices\obj\Debug\DummyDevices.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Froggy Automation\DummyDevices\obj\Debug\DummyDevices.dll
+C:\Users\David\Documents\Froggy Automation\DummyDevices\obj\Debug\DummyDevices.pdb
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\DummyDevices.dll
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\DummyDevices.pdb
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\obj\Debug\DummyDevices.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\obj\Debug\DummyDevices.dll
+C:\Users\David\Documents\FroggyAutomation\DummyDevices\obj\Debug\DummyDevices.pdb

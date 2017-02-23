@@ -1,0 +1,22 @@
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\Mono.Addins.Setup.dll
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\Mono.Addins.Setup.xml
+C:\Users\David\Documents\Froggy Automation\PluginInterop\obj\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\Froggy Automation\PluginInterop\obj\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\Froggy Automation\PluginInterop\obj\Debug\FroggyPlugin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Froggy Automation\PluginInterop\bin\Debug\log4net.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\log4net.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\Mono.Addins.Setup.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\bin\Debug\Mono.Addins.Setup.xml
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\obj\Debug\FroggyPlugin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\obj\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\FroggyAutomation\PluginInterop\obj\Debug\FroggyPlugin.pdb

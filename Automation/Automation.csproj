@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B4AAE87-06E8-4FEC-AE7D-D149E081446D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Automation</RootNamespace>
+    <AssemblyName>Automation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\Plugin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\Reference\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Addins">
+      <HintPath>..\Mono.Addins\Mono.Addins.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InsteonAdapter.cs" />
+    <Compile Include="Insteon\CommunicationDevice.cs" />
+    <Compile Include="Insteon\Data\Configuration.cs" />
+    <Compile Include="Insteon\Data\LinkingRecord.cs" />
+    <Compile Include="Insteon\DeviceAddedEventArgs.cs" />
+    <Compile Include="Insteon\DeviceProvider.cs" />
+    <Compile Include="Insteon\Devices\DeviceBase.cs" />
+    <Compile Include="Insteon\DeviceChangedEventArgs.cs" />
+    <Compile Include="Insteon\Data\DeviceId.cs" />
+    <Compile Include="Insteon\Devices\DeviceFactory.cs" />
+    <Compile Include="Insteon\Devices\DimmingLight.cs" />
+    <Compile Include="Insteon\Devices\InsteonCommunication.cs" />
+    <Compile Include="Insteon\Devices\KeypadSwitched.cs" />
+    <Compile Include="Insteon\Devices\OnOffDevice.cs" />
+    <Compile Include="Insteon\Devices\PowerLineModule.cs" />
+    <Compile Include="Insteon\Devices\StateChanged.cs" />
+    <Compile Include="Insteon\Devices\SwitchedLight.cs" />
+    <Compile Include="Insteon\FluffInsteon.cs" />
+    <Compile Include="Insteon\Data\InsteonPacket.cs" />
+    <Compile Include="Insteon\Messages\AllLinkRecordResponse.cs" />
+    <Compile Include="Insteon\Messages\GetConfiguration.cs" />
+    <Compile Include="Insteon\Messages\ExtendedMessage.cs" />
+    <Compile Include="Insteon\Messages\BasicMessage.cs" />
+    <Compile Include="Insteon\Messages\GetInfo.cs" />
+    <Compile Include="Insteon\Messages\MessageFactory.cs" />
+    <Compile Include="Insteon\Messages\PowerLineModemMessage.cs" />
+    <Compile Include="Insteon\Messages\StandardMessage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Insteon\RecievedMessageEventArgs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PluginInterop\FroggyPlugin.csproj">
+      <Project>{C968C540-7BA4-4408-9820-7A54071CFF4C}</Project>
+      <Name>FroggyPlugin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

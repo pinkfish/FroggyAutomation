@@ -1,0 +1,19 @@
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\WebSite.dll
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\WebSite.pdb
+C:\Users\David\Documents\Froggy Automation\WebSite\obj\x86\Debug\WebSite.dll
+C:\Users\David\Documents\Froggy Automation\WebSite\obj\x86\Debug\WebSite.pdb
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\src\app.js
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\src\index.html
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\src\Model\uiconfig.js
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\src\Views\headerbar.js
+C:\Users\David\Documents\Froggy Automation\WebSite\bin\Debug\src\Views\pagelayout.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\WebSite.dll
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\WebSite.pdb
+C:\Users\David\Documents\FroggyAutomation\WebSite\obj\x86\Debug\WebSite.dll
+C:\Users\David\Documents\FroggyAutomation\WebSite\obj\x86\Debug\WebSite.pdb
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\js\app.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\js\Model\uiconfig.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\js\Views\headerbar.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\js\Views\pagelayout.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\js\deps.js
+C:\Users\David\Documents\FroggyAutomation\WebSite\bin\Debug\index.html

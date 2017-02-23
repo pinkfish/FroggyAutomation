@@ -1,0 +1,20 @@
+C:\Users\David\Documents\Froggy Automation\Automation\obj\Debug\Automation.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\log4net.dll
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\Automation.dll
+C:\Users\David\Documents\Froggy Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\David\Documents\Froggy Automation\Automation\obj\Debug\Automation.dll
+C:\Users\David\Documents\Froggy Automation\Automation\obj\Debug\Automation.pdb
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\Automation.dll
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\Automation.pdb
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\FroggyPlugin.dll
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\log4net.dll
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\Mono.Addins.dll
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\FroggyPlugin.pdb
+C:\Users\David\Documents\FroggyAutomation\Automation\bin\Debug\Mono.Addins.xml
+C:\Users\David\Documents\FroggyAutomation\Automation\obj\Debug\Automation.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\FroggyAutomation\Automation\obj\Debug\Automation.dll
+C:\Users\David\Documents\FroggyAutomation\Automation\obj\Debug\Automation.pdb

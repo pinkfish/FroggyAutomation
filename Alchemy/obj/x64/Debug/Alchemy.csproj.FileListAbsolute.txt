@@ -1,0 +1,12 @@
+C:\Users\David\Documents\Froggy Automation\Alchemy\bin\x64\Debug\Alchemy.config
+C:\Users\David\Documents\Froggy Automation\Alchemy\bin\x64\Debug\Alchemy.dll
+C:\Users\David\Documents\Froggy Automation\Alchemy\bin\x64\Debug\Alchemy.pdb
+C:\Users\David\Documents\Froggy Automation\Alchemy\obj\x64\Debug\Alchemy.dll
+C:\Users\David\Documents\Froggy Automation\Alchemy\obj\x64\Debug\Alchemy.pdb
+C:\Users\David\Documents\Froggy Automation\Alchemy\obj\x64\Debug\Alchemy.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\FroggyAutomation\Alchemy\bin\x64\Debug\Alchemy.config
+C:\Users\David\Documents\FroggyAutomation\Alchemy\bin\x64\Debug\Alchemy.dll
+C:\Users\David\Documents\FroggyAutomation\Alchemy\bin\x64\Debug\Alchemy.pdb
+C:\Users\David\Documents\FroggyAutomation\Alchemy\obj\x64\Debug\Alchemy.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\FroggyAutomation\Alchemy\obj\x64\Debug\Alchemy.dll
+C:\Users\David\Documents\FroggyAutomation\Alchemy\obj\x64\Debug\Alchemy.pdb
